@@ -1,0 +1,71 @@
+/* Seperator Style */
+.separator-table {
+  max-width: 600px;
+  width: 100%;
+  background-color: #d7d7d7;
+  color: #464646;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  vertical-align: top;
+}
+
+.separator-cell {
+  height: 30px;
+}
+
+/* Generic Pod Style */
+.generic-pod-table {
+  border-left: 10px solid #d7d7d7;
+  border-right: 10px solid #d7d7d7;
+  max-width: 600px;
+  width: 100%;
+  background-color: white;
+  color: #464646;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  vertical-align: top;
+}
+
+.generic-pod-cell {
+  height: 50px;
+}
+
+/* Text Style */
+.text-primary {
+  color: #f16522;
+}
+
+.text-heading {
+  color: #f16522;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 34px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.text-paragraph {
+  color: #464646;
+  font-size: 14px;
+  line-height: 22px;
+  margin: 0;
+}
+
+.text-strong {
+  font-weight: bold;
+}
+
+.text-border-bottom {
+  border-bottom: 1px solid #d3d1d1;
+}
+
+.paymentsuccess {
+    align-items: center;
+    justify-content: center;
+}
+
+.bordered-left-right{
+    margin-top: 5px;
+}

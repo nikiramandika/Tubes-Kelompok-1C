@@ -1,0 +1,52 @@
+body {
+  margin-top: 20px;
+  background: #efebe8;
+}
+
+.roww {
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.card,
+.table-responsive {
+  border-radius: 15px;
+}
+.avatar.sm {
+  width: 2.25rem;
+  height: 2.25rem;
+  font-size: 0.818125rem;
+}
+
+.table-nowrap .table td,
+.table-nowrap .table th {
+  white-space: nowrap;
+}
+
+.table > :not(caption) > * > * {
+  padding: 0.75rem 1.25rem;
+  border-bottom-width: 3px;
+}
+
+table th {
+  font-weight: 600;
+  background-color: #d1c9bb !important;
+  color: black;
+  text-align: center;
+  font-family: var(--ff-open-sans);
+}
+table td {
+  font-family: var(--ff-nunito);
+  background-color: #d1c9bb63 !important;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.navbar-link.order {
+  color: var(--carolina-blue);
+}
+
+.table{
+  justify-content: center;
+}
